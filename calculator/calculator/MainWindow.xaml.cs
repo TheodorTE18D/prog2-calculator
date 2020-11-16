@@ -29,9 +29,108 @@ namespace calculator
 
         private void Label_TextInput(object sender, TextCompositionEventArgs e)
         {
+            
+        }
+
+
+        private void firstParentheses_Click(object sender, RoutedEventArgs e)
+        {
+            string firstParentheses = "(";
+        }
+
+        private void sevenBtn_Click(object sender, RoutedEventArgs e)
+        {
+            int sevenBtn = 7;
+        }
+
+        private void fourBtn_Click(object sender, RoutedEventArgs e)
+        {
+            int fourBtn = 4;
+        }
+
+        private void oneBtn_Click(object sender, RoutedEventArgs e)
+        {
+            int oneBtn = 1;
+        }
+
+        private void zeroBtn_Click(object sender, RoutedEventArgs e)
+        {
 
         }
 
-      
+        private void additionBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void subtractBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void multiplicationBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void divideBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void resetBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void sixBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void threeBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void equalsBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void nineBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void percentBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void commaBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void twoBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void fiveBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void eightBtn_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void secondParentheses_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
